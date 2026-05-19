@@ -1,4 +1,9 @@
-## Hi there 👋
+## Account has moved 🚅
+Hello all.
+
+If you looking for my account it's here https://github.com/art6f
+
+This one is just a redirect.
 
 <!--
 **artemoliynyk/artemoliynyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
